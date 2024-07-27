@@ -7,6 +7,7 @@
 
 ####  Supported sensors
 * Schrader GG4
+* Schrader BC5A4
 * Abarth 124 (soon)
 
 ## How to use
